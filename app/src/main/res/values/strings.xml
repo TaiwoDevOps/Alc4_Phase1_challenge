@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="aboutALC">ABOUT ALC</string>
+    <string name="aboutMe">MY PROFILE</string>
+    <string name="profilePicDetails">My Profile Picture</string>
+    <string name="userName">Adisa Taiwo Joshua</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Nigeria</string>
+    <string name="email">Email: adisataiwojoshua@gmail.com</string>
+    <string name="phoneNumber">Phone number: 2348122437265</string>
+    <string name="slackUserName">Slack Username: dotJoSh</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="progress_wait">Please wait</string>
+    <string name="progress_loading">loading.....</string>
+</resources>
